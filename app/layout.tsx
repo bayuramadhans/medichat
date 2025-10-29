@@ -3,7 +3,7 @@ import './globals.css';
 import { Toaster } from "@/components/ui/sonner"
 
 export const metadata: Metadata = {
-  title: 'MediChat Health Summary',
+  title: 'Medichat - Micromeet AI Healthcare',
   description: 'A simple chat interface to generate medical records from doctor-patient conversations using AI.',
 };
 
