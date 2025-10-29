@@ -1,11 +1,11 @@
-# MediChat
+# MediChat - Micromeet AI Healthcare
 
 MediChat is A simple chat interface to generate medical records from doctor-patient conversations using AI. The application generates structured medical records from conversations, including chief complaints, symptoms, assessments, and treatment plans.
 
 ## Features
 
-- Real-time AI chat interface for medical consultations
-- Automatic generation of structured medical records
+- Chat interface simulation for medical consultations
+- Automatic generation of structured medical records using AI
 - Clean and accessible user interface
 - Dark/Light mode support
 - Responsive design for all devices
