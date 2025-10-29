@@ -31,8 +31,8 @@ MediChat is A simple chat interface to generate medical records from doctor-pati
 - **Model**: Google Generative AI (gemini-2.5-flash)
 - **Integration**: @genkit-ai/google-genai
 - **Features**:
-  - Conversational AI for medical consultations
-  - Structured data extraction for medical records
+  - Automatic generation of structured medical records using AI
+  - Structured data output for medical records
   - Context-aware responses using Google's LLM
 
 ## Getting Started
