@@ -59,9 +59,9 @@ yarn install
 pnpm install
 ```
 
-3. Create a `.env` file in the root directory and add your Google AI API key:
+3. Create a `.env` or duplicate from `.env.example` file in the root directory and add your Gemini API key:
 ```env
-GOOGLE_AI_API_KEY=your_api_key_here
+GEMINI_API_KEY=your_api_key_here
 ```
 
 4. Start the development server:
